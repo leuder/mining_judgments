@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dasdas
+.vscode/
+data.csv
+split_data.csv
