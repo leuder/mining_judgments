@@ -12,6 +12,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.7.1
 entrypoints==0.3
+gensim==4.0.1
 idna==2.10
 importlib-metadata==3.8.1
 ipykernel==5.5.0
@@ -37,10 +38,12 @@ nbclient==0.5.3
 nbconvert==6.0.7
 nbformat==5.1.2
 nest-asyncio==1.5.1
+nltk==3.6.1
 notebook==6.3.0
 numpy==1.20.1
 packaging==20.9
 pandas==1.2.3
+pandas-profiling==2.11.0
 pandocfilters==1.4.3
 parso==0.8.1
 pexpect==4.8.0
@@ -56,11 +59,13 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 pyspark==3.1.1
 python-dateutil==2.8.1
+python-Levenshtein==0.12.2
 pytz==2021.1
 pyzmq==22.0.3
 requests==2.25.1
 Send2Trash==1.5.0
 six==1.15.0
+scikit-learn==0.24.1
 sniffio==1.2.0
 spark-nlp==3.0.0
 sparknlp==1.0.0
@@ -72,4 +77,5 @@ typing-extensions==3.7.4.3
 urllib3==1.26.4
 wcwidth==0.2.5
 webencodings==0.5.1
+wordcloud==1.8.1
 zipp==3.4.1
